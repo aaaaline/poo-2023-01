@@ -1,5 +1,5 @@
 package outros;
 
-public class Livro {
+public class Livro extends Object {
 
 }
