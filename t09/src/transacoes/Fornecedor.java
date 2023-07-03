@@ -1,6 +1,6 @@
 package transacoes;
 
 public class Fornecedor {
-	Transacao transacoes[];
+	Transacao[] transacoes;
 	
 }
