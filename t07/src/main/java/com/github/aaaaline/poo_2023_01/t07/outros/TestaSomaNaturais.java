@@ -1,4 +1,4 @@
-package com.github.aaaaline.poo_2023_01.t11.outros;
+package com.github.aaaaline.poo_2023_01.t07.outros;
 
 public class TestaSomaNaturais {
     public static long somaNaturais(int n) {

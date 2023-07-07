@@ -1,4 +1,4 @@
-package com.github.aaaaline.poo_2023_01.t11.casa;
+package com.github.aaaaline.poo_2023_01.t07.casa;
 
 public class Casa {
     public Casa() {

@@ -1,7 +1,8 @@
-package com.github.aaaaline.poo_2023_01.t11.festa;
+package com.github.aaaaline.poo_2023_01.t07.festa;
 
 import java.util.TreeSet;
 import java.util.Set;
+
 public class Festa {
     private Set convidados = new TreeSet();
 

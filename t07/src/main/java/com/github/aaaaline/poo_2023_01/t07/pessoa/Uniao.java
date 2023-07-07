@@ -1,4 +1,4 @@
-package com.github.aaaaline.poo_2023_01.t11.pessoa;
+package com.github.aaaaline.poo_2023_01.t07.pessoa;
 
 import java.util.List;
 import java.util.Objects;
