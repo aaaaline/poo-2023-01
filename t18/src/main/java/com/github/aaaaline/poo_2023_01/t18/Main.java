@@ -1,7 +1,5 @@
 package com.github.aaaaline.poo_2023_01.t18;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         Partida partida = new Partida("Imortal");
