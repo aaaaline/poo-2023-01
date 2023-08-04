@@ -4,9 +4,26 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Partida {
-    List<Lance> lances;
 
-    {
-        lances = new ArrayList<>();
+    private String nome;
+
+    private List<Lance> lances = new ArrayList<>();
+
+    public Partida(String nome) {
+        this.nome = nome;
+    }
+
+    public void adicionaLance(Lance lance) {
+        if (lance == null) {
+            throw new IllegalArgumentException("É exigido um lance");
+        }
+
+        lances.add(lance);
+    }
+
+    @Override
+    public String toString() {
+        return "Partida " + nome + ": "
+                + lances;
     }
 }
